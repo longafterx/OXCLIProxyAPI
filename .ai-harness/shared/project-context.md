@@ -3,6 +3,8 @@
 ## Project Name
 
 - `CLIProxyAPI` / `OXCLIProxyAPI`
+- GitHub repository: https://github.com/longafterx/OXCLIProxyAPI
+- Docker Hub namespace: `rustyllh`; image names are independent of the GitHub username.
 
 ## Project Goal
 
